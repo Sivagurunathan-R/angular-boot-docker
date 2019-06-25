@@ -1,5 +1,4 @@
-FROM openjdk:8-alpine
-
+FROM openjdk:8
 #  docker build -t trion/spring-app .
 # docker run --rm -it trion/spring-app
 VOLUME /tmp
